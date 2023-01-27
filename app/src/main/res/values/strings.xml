@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="texto">Es una época oscura para la Rebelión. Aunque la Estrella de la Muerte ha sido destruida, las tropas imperiales han obligado a las fuerzas rebeldes a dejar sus sus bases secretas y las han perseguido a través de la galaxia. \n \n En una fuga de la temida Flota Imperial, un grupo de guerreros rebeldes liderado por Luke Skywalker ha establecido una nueva base secreta en laremota tierra congelada de Hoth. \n\n Darth Vader, Señor del mal,obsesionado con encontrar al joven Skywalker, ha despachado al lejano espacio miles de sondas a control remoto…</string>
+    <string name="titulo">EL IMPERIO CONTRAATACA</string>
+    <string name="episodio">Episodio V</string>
+
+</resources>
